@@ -5,4 +5,4 @@ A demo app for React and Django Deployment
 docker-compose down
 docker-compose up -d
 
-This is for learning purpose only
+echo "This is for learning purpose only"
